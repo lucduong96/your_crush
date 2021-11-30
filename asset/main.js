@@ -10,7 +10,8 @@ var imgHeight = 170; // height of images (unit: px)
 
 // Link of background music - set 'null' if you dont want to play background music
 var bgMusicURL =
-  "https://api.soundcloud.com/tracks/143041228/stream?client_id=587aa2d384f7333a886010d5f52f302a";
+      "https://soundcloud.com/vitaminmin/music?si=72072824777447499b968d0e0d541beb";
+//   "https://api.soundcloud.com/tracks/143041228/stream?client_id=587aa2d384f7333a886010d5f52f302a";
 var bgMusicControls = true; // Show UI music control
 
 /*
